@@ -1,0 +1,1 @@
+INSERT INTO `empleado`(`id`, `nombre`, `apellidos`, `clave`, `cedula`, `telefono`, `correo`, `administradora`) VALUES ("","Esperanza","Perez Vidal","12345","11555555","7712222","correo",1)
